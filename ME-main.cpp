@@ -6,12 +6,6 @@ long binpow(long a,long b,long m) ;
 BigInt binpow(BigInt a,long b,long m);
 BigInt binpow(BigInt a,long b,BigInt m);
 
-
-
-
-
-
-
 int main(){
     string base;
     long exponential;
